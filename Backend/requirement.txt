@@ -1,0 +1,8 @@
+Flask
+flask-cors
+werkzeug
+python-docx
+pdfminer.six
+nltk
+spacy
+scikit-learn
