@@ -2,7 +2,7 @@
 
 An intelligent interview preparation platform with real-time AI interviewer, resume analysis, and performance feedback.
 
-## Project Structure
+## Project Structure v  
 
 ```
 .
